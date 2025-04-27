@@ -1062,7 +1062,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-builder@npm:^23.3.3":
+"electron-builder@npm:^23.6.0":
   version: 23.6.0
   resolution: "electron-builder@npm:23.6.0"
   dependencies:
@@ -1117,7 +1117,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron-store@npm:^8.1.0":
+"electron-store@npm:^8.2.0":
   version: 8.2.0
   resolution: "electron-store@npm:8.2.0"
   dependencies:
@@ -1127,7 +1127,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"electron@npm:^21.0.1":
+"electron@npm:^21.4.4":
   version: 21.4.4
   resolution: "electron@npm:21.4.4"
   dependencies:
@@ -2888,7 +2888,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@npm:^4.8.4":
+"typescript@npm:^4.9.5":
   version: 4.9.5
   resolution: "typescript@npm:4.9.5"
   bin:
@@ -2898,7 +2898,7 @@ __metadata:
   languageName: node
   linkType: hard
 
-"typescript@patch:typescript@npm%3A^4.8.4#optional!builtin<compat/typescript>":
+"typescript@patch:typescript@npm%3A^4.9.5#optional!builtin<compat/typescript>":
   version: 4.9.5
   resolution: "typescript@patch:typescript@npm%3A4.9.5#optional!builtin<compat/typescript>::version=4.9.5&hash=289587"
   bin:
@@ -2987,10 +2987,10 @@ __metadata:
   version: 0.0.0-use.local
   resolution: "whatsapp-desktop-linux@workspace:."
   dependencies:
-    electron: "npm:^21.0.1"
-    electron-builder: "npm:^23.3.3"
-    electron-store: "npm:^8.1.0"
-    typescript: "npm:^4.8.4"
+    electron: "npm:^21.4.4"
+    electron-builder: "npm:^23.6.0"
+    electron-store: "npm:^8.2.0"
+    typescript: "npm:^4.9.5"
   languageName: unknown
   linkType: soft
 
