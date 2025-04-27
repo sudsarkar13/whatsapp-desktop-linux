@@ -13,12 +13,12 @@
   "author": "Alberto Mimbrero",
   "license": "MIT",
   "dependencies": {
-    "electron-store": "^8.2.0"
+    "electron-store": "^10.0.1"
   },
   "devDependencies": {
-    "electron": "^21.4.4",
-    "electron-builder": "^23.6.0",
-    "typescript": "^4.9.5"
+    "electron": "^35.2.1",
+    "electron-builder": "26.0.12",
+    "typescript": "^5.8.3"
   },
   "build": {
     "appId": "io.github.mimbrero.WhatsAppDesktop",
